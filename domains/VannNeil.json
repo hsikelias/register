@@ -1,1 +1,8 @@
-
+{
+    "owner": {
+        "username": "hsikelias"
+    },
+    "records": {
+        "CNAME": "hsikelias.github.io"
+    }
+}
